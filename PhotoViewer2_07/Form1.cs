@@ -205,12 +205,14 @@ namespace PhotoViewer2_07
 
             try
             {
-                using (FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read))
-                {
-                    pictureBoxFull.Image = Image.FromStream(fs);
-                }
+                pictureBoxFull.Image = Image.FromFile(filePath);
 
-                lblStatus.Text = string.Format("[{0}/{1}] {2}", currentImageIndex + 1, displayedFilesInfo.Count, Path.GetFileName(filePath));
+                lblStatus.Text = string.Format(
+                    "[{0}/{1}] {2}",
+                    currentImageIndex + 1,
+                    displayedFilesInfo.Count,
+                    Path.GetFileName(filePath));
+
                 ShowImageViewer();
             }
             catch (Exception ex)
