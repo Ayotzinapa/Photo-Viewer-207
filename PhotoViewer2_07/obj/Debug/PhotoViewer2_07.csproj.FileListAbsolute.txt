@@ -1,9 +1,0 @@
-c:\users\alexp\documents\visual studio 2013\Projects\PhotoViewer2_07\PhotoViewer2_07\obj\Debug\PhotoViewer2_07.csprojResolveAssemblyReference.cache
-c:\users\alexp\documents\visual studio 2013\Projects\PhotoViewer2_07\PhotoViewer2_07\obj\Debug\PhotoViewer2_07.Properties.Resources.resources
-c:\users\alexp\documents\visual studio 2013\Projects\PhotoViewer2_07\PhotoViewer2_07\obj\Debug\PhotoViewer2_07.csproj.GenerateResource.Cache
-c:\users\alexp\documents\visual studio 2013\Projects\PhotoViewer2_07\PhotoViewer2_07\bin\Debug\PhotoViewer2_07.exe.config
-c:\users\alexp\documents\visual studio 2013\Projects\PhotoViewer2_07\PhotoViewer2_07\bin\Debug\PhotoViewer2_07.exe
-c:\users\alexp\documents\visual studio 2013\Projects\PhotoViewer2_07\PhotoViewer2_07\bin\Debug\PhotoViewer2_07.pdb
-c:\users\alexp\documents\visual studio 2013\Projects\PhotoViewer2_07\PhotoViewer2_07\obj\Debug\PhotoViewer2_07.exe
-c:\users\alexp\documents\visual studio 2013\Projects\PhotoViewer2_07\PhotoViewer2_07\obj\Debug\PhotoViewer2_07.pdb
-c:\users\alexp\documents\visual studio 2013\Projects\PhotoViewer2_07\PhotoViewer2_07\obj\Debug\PhotoViewer2_07.Form1.resources
